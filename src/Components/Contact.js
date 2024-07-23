@@ -5,8 +5,6 @@ class Contact extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const message = this.props.data.contactmessage;
-
     return (
       <section id="contact">
         <Fade bottom duration={1000}>
@@ -15,10 +13,6 @@ class Contact extends Component {
               <h1>
                 <span>Get In Touch.</span>
               </h1>
-            </div>
-
-            <div className="ten columns">
-              <p className="lead">{message}</p>
             </div>
           </div>
         </Fade>

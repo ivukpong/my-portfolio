@@ -205,74 +205,50 @@
       {
         "title": "Coldtivate",
         "category": "My Travel Blog for my post-university travels",
-        "image": "01.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "image": "coldtivate.png",
+        "url": "app.coldtivate.org"
       },
       {
         "title": "Ashipa Electric",
         "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "image": "ashipa.png",
+        "url": "http://www.ashipaelectric.com"
       },
       {
         "title": "ArkBuilders Enterprise",
         "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Ubela Mobile",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Ubela Web",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Sofa",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "image": "abc.png",
+        "url": "https://www.abcenterprise.xyz"
       },
       {
         "title": "Shecluded",
         "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "shecluded.png",
+        "url": "http://www.shecluded.com"
       },
       {
-        "title": "Encouragement for Today",
+        "title": "Music BrainBox",
         "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "music.png",
+        "url": "https://musicbrainbox.nicepage.io"
       },
       {
         "title": "Invest Naira",
         "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "investnaira.png",
+        "url": "http://www.investnaira.com"
       },
       {
-        "title": "Weather Forecast",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Image Recognition",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "01.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "KidsInspiring",
+        "category": "A React based resume website template",
+        "image": "kids.png",
+        "url": "https://kidsinspiringnation.org"
       },
       {
         "title": "Facial Recognition",
         "category": "Website I built for a restaurant I like in Thailand",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "image": "face.png",
+        "url": "https://smart-brain-mega.vercel.app"
       }
     ]
   }

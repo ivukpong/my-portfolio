@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Zmage from "react-zmage";
+// import Zoom from "react-medium-image-zoom";
 import Fade from "react-reveal";
 
 let id = 0;
@@ -13,7 +13,9 @@ class Portfolio extends Component {
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
+            {/* <Zoom> */}
             <img alt={projects.title} src={projectImage} />
+            {/* </Zoom> */}
             <div style={{ textAlign: "center" }}>
               <a href={projects.url}>{projects.title}</a>
             </div>
