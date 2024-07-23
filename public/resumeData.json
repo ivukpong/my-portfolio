@@ -1,0 +1,279 @@
+{
+  "main": {
+    "name": "INIOBONG UKPONG",
+    "description": "I’m a full stack web and app developer who specializes in building and designing exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products",
+    "image": "me.jpg",
+    "bio": "Highly skilled full-stack developer with a passion for building innovative and user-friendly web and mobile applications. Proven ability to design, develop, and deploy applications across the entire tech stack, from robust backend infrastructure to intuitive user interfaces. Possesses strong problem-solving skills and thrives in collaborative environments.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ivukpong@gmail.com",
+    "phone": "+2349079232170",
+    "github": "https://github.com/ini10000",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1r9mm57zi91UF8Fqyff7yqqP2b5kepH1f/view?usp=share_link",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/iniobongukpong00",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "X",
+        "url": "https://x.com/ukpong_obong",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iniobong-ukpong/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/inicodes/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ini10000",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Covenant University",
+        "degree": "BEng. Computer Engineering (First Class Honours)",
+        "graduated": "October 2021",
+        "description": "During my time at Covenant University, I gained a solid foundation in computer engineering principles, programming languages, and software development methodologies. I acquired useful skills in problem-solving, critical thinking, and teamwork through various projects and collaborations. I also developed a strong understanding of computer systems, networks, and databases, which has been essential in my career as a full-stack developer."
+      }
+    ],
+    "work": [
+      {
+        "company": "Ashipa Electric",
+        "title": "Software Developer",
+        "years": "December 2022 - Present",
+        "description": "Rebuilt the company website frontend from scratch using NextJS, improving user experience and performance. Developed the frontend of the mobile application using React Native, ensuring a seamless user experience across devices. Designed and implemented APIs with NestJS to facilitate data exchange between the frontend and backend."
+      },
+      {
+        "company": "Shecluded",
+        "title": "Mobile Engineer",
+        "years": "November 2021 - April 2022",
+        "description": "Rebuilt the mobile app frontend using React Native (TypeScript), enhancing user engagement and functionality. Collaborated with designers to optimize user experience through Figma. Utilized Jira for efficient project management and team communication."
+      },
+      {
+        "company": "Invest Naira",
+        "title": "Software Engineer",
+        "years": "February 2019 - October 2021",
+        "description": "Developed the frontend of the web app with ReactJS, resulting in a significant reduction in bounce rate. Built the frontend of the mobile app with React Native (Expo), leading to an increase in user sign-ups. Identified and established strategic partnerships with external organizations to expand the platform's reach."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Frontend Development",
+        "level": "90%",
+        "details": [
+          {
+            "name": "React.js",
+            "level": "80%"
+          },
+          {
+            "name": "React Native",
+            "level": "85%"
+          },
+          {
+            "name": "Flutter",
+            "level": "70%"
+          },
+          {
+            "name": "NextJS",
+            "level": "75%"
+          },
+          {
+            "name": "IonicJS",
+            "level": "60%"
+          },
+          {
+            "name": "TailwindCSS",
+            "level": "65%"
+          }
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "level": "85%",
+        "details": [
+          {
+            "name": "Node.js",
+            "level": "80%"
+          },
+          {
+            "name": "Express.js",
+            "level": "75%"
+          },
+          {
+            "name": "NestJS",
+            "level": "70%"
+          },
+          {
+            "name": "Docker",
+            "level": "60%"
+          },
+          {
+            "name": "AWS",
+            "level": "65%"
+          }
+        ]
+      },
+      {
+        "name": "Database Management",
+        "level": "80%",
+        "details": [
+          {
+            "name": "PostgreSQL",
+            "level": "75%"
+          },
+          {
+            "name": "MongoDB",
+            "level": "70%"
+          }
+        ]
+      },
+      {
+        "name": "Object-oriented programming",
+        "level": "85%",
+        "details": [
+          {
+            "name": "JavaScript",
+            "level": "80%"
+          },
+          {
+            "name": "Python",
+            "level": "75%"
+          },
+          {
+            "name": "Java",
+            "level": "70%"
+          }
+        ]
+      },
+      {
+        "name": "Data Analysis and Machine Learning",
+        "level": "70%",
+        "details": [
+          {
+            "name": "Python",
+            "level": "75%"
+          },
+          {
+            "name": "Jupyter Notebooks",
+            "level": "65%"
+          }
+        ]
+      },
+      {
+        "name": "Version Control",
+        "level": "90%",
+        "details": [
+          {
+            "name": "Git",
+            "level": "90%"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Platforms",
+        "level": "80%",
+        "details": [
+          {
+            "name": "AWS",
+            "level": "80%"
+          }
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coldtivate",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Ashipa Electric",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "ArkBuilders Enterprise",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Ubela Mobile",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Ubela Web",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Sofa",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Shecluded",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Encouragement for Today",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Invest Naira",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Weather Forecast",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Image Recognition",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Facial Recognition",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
