@@ -204,49 +204,49 @@
     "projects": [
       {
         "title": "Coldtivate",
-        "category": "My Travel Blog for my post-university travels",
+        "category": "A virtual cold chain assistant",
         "image": "coldtivate.png",
         "url": "app.coldtivate.org"
       },
       {
         "title": "Ashipa Electric",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "category": "Official website for renewable energy company",
         "image": "ashipa.png",
         "url": "http://www.ashipaelectric.com"
       },
       {
         "title": "ArkBuilders Enterprise",
-        "category": "A React based resume website template",
+        "category": "Official website for software providers",
         "image": "abc.png",
         "url": "https://www.abcenterprise.xyz"
       },
       {
         "title": "Shecluded",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "category": "Official Website for a women empowerment platform",
         "image": "shecluded.png",
         "url": "http://www.shecluded.com"
       },
       {
         "title": "Music BrainBox",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "category": "Official Website of a Music-based education platform",
         "image": "music.png",
         "url": "https://musicbrainbox.nicepage.io"
       },
       {
         "title": "Invest Naira",
-        "category": "A React based resume website template",
+        "category": "Official website for a fintech in NIgeria",
         "image": "investnaira.png",
         "url": "http://www.investnaira.com"
       },
       {
         "title": "KidsInspiring",
-        "category": "A React based resume website template",
+        "category": "Official website for educating and empowering children",
         "image": "kids.png",
         "url": "https://kidsinspiringnation.org"
       },
       {
         "title": "Facial Recognition",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "category": "A webapp to recognize faces in images",
         "image": "face.png",
         "url": "https://smart-brain-mega.vercel.app"
       }
